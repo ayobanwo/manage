@@ -1,0 +1,19 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+.wrapper{
+	padding: 30px 8%;
+}
+.nav-ul{
+	display: inline;
+}
+.nav-li{
+	display: inline;
+}
+.nav-button{
+	color: white;
+	padding: 8px 15px;
+	border-radius: 10px;
+	background-color: 
+}
