@@ -125,7 +125,7 @@ nav{
 	grid-template-columns: 4fr 1fr;
 	grid-gap: 200px;
 	color: white;
-	background-color: maroon;
+	background-color: #ff0a0a;
 }
 .simplify-div-h{
 	font-size: 45px;
@@ -147,18 +147,30 @@ footer{
 	margin: 0;
 }
 .foot-li{
-	line-height: 50px;
+	line-height: 40px;
 	list-style: none;
 }
 .footer-input{
-	padding: 10px;
-	border-radius: 15px;
+	padding: 12px 20px;
+	border-radius: 50px;
 }
 .footer-go-btn{
 	color: white;
 	background-color: lightgreen;
+	padding: 12px 20px;
+	border-radius: 50px;
+	margin-left: 10px;
+	border-style: none;
 }
 .foot-span{
 	display: block;
-	margin-top: 150px;
+	margin-top: 90px;
+	margin-left: 
+}
+.sm-fig{
+	margin-left: 0;
+	margin-top: 100px;
+}
+.sm-fig-img{
+	margin-right: 3%;
 }
