@@ -1,1 +1,1 @@
-clone of a random template
+# Clone of a random template
